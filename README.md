@@ -3,12 +3,13 @@
 # 💫 About Me:
 🎓 M.Sc. in Data Science student with a strong foundation in machine learning and analytics.  
 💡 Passionate about AI & ML, with hands-on experience in building models and experimenting with various algorithms.  
-🔍 Exploring the field of Data Science and Analytics , focused on leveraging data-driven solutions to solve real-world problems.  
+🔍 Exploring the field of Data Science and Analytics, focused on leveraging data-driven solutions to solve real-world problems.  
 🌟 Actively seeking Data Science internships to gain practical experience and apply my skills in a professional environment.  
 🚀 Driven and ambitious, committed to continuous learning, growth, and contributing to impactful projects.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ashraf748190/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ashraf748190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/its_farhanashraf?igsh=MW1iYTh3aGFlMnNtdQ==)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
